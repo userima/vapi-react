@@ -70,5 +70,5 @@ export const characterAssistant: CreateAssistantDTO = {
     provider: "rime-ai",
     voiceId: "maya",
   },
-  firstMessage: "Hi. I'm Mary, your personal character sketch pad.",
+  firstMessage: "Merhaba benim adım Maya.",
 };
